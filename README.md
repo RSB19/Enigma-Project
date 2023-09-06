@@ -4,5 +4,5 @@ The goal of this project is to allow a user to input a cypher to encrypt and use
 Attached below is the following website used to create the enigma machine - mainly the "Enigma M3" section:
 https://cryptomuseum.com/crypto/enigma/wiring.htm
 
-**Copyright**
-Copyright © Rohit Bellam, 
+
+Copyright © Rohit Bellam 
